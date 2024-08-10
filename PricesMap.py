@@ -51,7 +51,7 @@ REGIONI = ('ITALY',
 
 
 #%% FUNCTIONS
-st.title("ITALIAN HOUS PRICES")
+st.title("ITALIAN HOUSE PRICES")
 
 st.markdown("### This app show the average price of rents in Italy")
 # st.markdown("###**Data source:** [immobiliare.it](https://www.immobiliare.it/)")
